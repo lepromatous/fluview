@@ -1,0 +1,14 @@
+name: fluview
+title: fluview
+username:
+account: surveillance
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2483128
+bundleId: 5582886
+url: https://surveillance.shinyapps.io/fluview/
+when: 1644962579.12568
+lastSyncTime: 1644962579.12569
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: LICENSE|README.md
